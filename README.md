@@ -107,16 +107,16 @@ Supported Cars
 | Toyota               | C-HR 2017-19               | All                  | Yes     | Stock          | 0mph             | 0mph           | Toyota            |
 | Toyota               | C-HR Hybrid 2017-19        | All                  | Yes     | Stock          | 0mph             | 0mph           | Toyota            |
 | Toyota               | Corolla 2017-19            | All                  | Yes     | Yes<sup>2</sup>| 20mph<sup>1</sup>| 0mph           | Toyota            |
-| Toyota               | Corolla 2020               | All                  | Yes     | Yes            | 0mph             | 0mph           | Toyota            |
+| Toyota               | [Corolla 2020](https://carmoses.com/toyota-corolla-hybrid/)               | All                  | Yes     | Yes            | 0mph             | 0mph           | Toyota            |
 | Toyota               | Corolla Hatchback 2019     | All                  | Yes     | Yes            | 0mph             | 0mph           | Toyota            |
 | Toyota               | Highlander 2017-19         | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
 | Toyota               | Highlander Hybrid 2017-19  | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
 | Toyota               | Prius 2016                 | TSS-P                | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
 | Toyota               | Prius 2017-19              | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
-| Toyota               | Prius Prime 2017-20        | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
+| Toyota               | [Prius Prime 2020](https://carmoses.com/toyota-prius-prime/)        | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
 | Toyota               | Rav4 2016                  | TSS-P                | Yes     | Yes<sup>2</sup>| 20mph<sup>1</sup>| 0mph           | Toyota            |
 | Toyota               | Rav4 2017-18               | All                  | Yes     | Yes<sup>2</sup>| 20mph<sup>1</sup>| 0mph           | Toyota            |
-| Toyota               | Rav4 2019                  | All                  | Yes     | Yes            | 0mph             | 0mph           | Toyota            |
+| Toyota               | [Rav4 2019](https://carmoses.com/toyota-rav4-hybrid/)                  | All                  | Yes     | Yes            | 0mph             | 0mph           | Toyota            |
 | Toyota               | Rav4 Hybrid 2016           | TSS-P                | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
 | Toyota               | Rav4 Hybrid 2017-18        | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
 | Toyota               | Sienna 2018                | All                  | Yes     | Yes<sup>2</sup>| 0mph             | 0mph           | Toyota            |
